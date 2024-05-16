@@ -1,0 +1,40 @@
+body {
+ background: #CFF4F6;
+ color: #2C2C2C;
+ font-family: times;
+}
+
+.center {
+text-align: center;
+}
+
+.jumbotron {
+  border-top: 1px solid #2C2C2C;
+  border-bottom: 1px solid #fff;
+  padding: 40px 0;
+  margin-bottom: 40px;
+}
+
+.jumbotron h1 {
+    margin-bottom: 0px;
+}
+.jumbotron p {
+  font-size: 32px;
+}
+
+.navbar{
+  padding: 20px 0;
+}
+
+.navbar-brand span {
+  background: red;
+  position: absolute;
+  top: -1000px;
+}
+
+
+.hero {
+  font-size: 92px;
+  margin-bottom: 0px;
+
+}
